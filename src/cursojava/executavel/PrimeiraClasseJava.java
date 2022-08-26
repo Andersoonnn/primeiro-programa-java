@@ -7,7 +7,7 @@ public class PrimeiraClasseJava {
 	public static void main(String[] args) {
 		
 		/*Escreve texto no consolo*/
-		System.out.println("Meu primeiro programa em Java");
+		System.out.println("Meu primeiro programa em Java do curso full steck");
 		System.out.println("Java é orientada a objeto");
 	}
 
