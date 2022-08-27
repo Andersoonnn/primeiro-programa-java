@@ -8,6 +8,7 @@ public class Pessoa {
 	private Date dataNascimento;
 	private Date dataNascimento2;
 	private Date dataCadastro;
+	private Date dataAdmissao;
 	public Date getDataNascimento() {
 		return dataNascimento;
 	}
