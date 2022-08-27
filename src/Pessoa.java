@@ -3,12 +3,19 @@
 public class Pessoa {
 	
 	private String nome;
+	
 	private String sorenome;
+	
 	private int idade;
+	
 	private Date dataNascimento;
+	
 	private Date dataNascimento2;
+	
 	private Date dataCadastro;
+	
 	private Date dataAdmissao;
+	
 	public Date getDataNascimento() {
 		return dataNascimento;
 	}
